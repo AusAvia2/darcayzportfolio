@@ -2,32 +2,62 @@ import { ISkillListItem, SkillLevel } from "@/types";
 
 const skills: ISkillListItem[] = [
   {
-    title: "Programming Languages",
+    title: "Roblox Development",
     items: [
       {
-        title: "JavaScript",
+        title: "Roblox Studio",
         level: SkillLevel.Expert,
-        icon: "/skills/javascript.svg",
+        icon: "/skills/roblox-studio.svg",
       },
       {
-        title: "TypeScript",
-        level: SkillLevel.Intermediate,
-        icon: "/skills/typescript.svg",
+        title: "Lua",
+        level: SkillLevel.Expert,
+        icon: "/skills/lua.svg",
       },
       {
-        title: "Dart",
+        title: "Adonis Admin",
         level: SkillLevel.Expert,
-        icon: "/skills/dart.svg",
+        icon: "/skills/adonis.svg",
+      },
+      {
+        title: "Trello Integration",
+        level: SkillLevel.Expert,
+        icon: "/skills/trello.svg",
+      },
+      {
+        title: "Roblox Group Management",
+        level: SkillLevel.Expert,
+        icon: "/skills/roblox.svg",
       },
     ],
   },
   {
-    title: "Frontend Development",
+    title: "Discord Bot Development",
+    items: [
+      {
+        title: "Discord.js",
+        level: SkillLevel.Expert,
+        icon: "/skills/discord.js.svg",
+      },
+      {
+        title: "Node.js",
+        level: SkillLevel.Expert,
+        icon: "/skills/nodejs.svg",
+      },
+      {
+        title: "API Integration",
+        level: SkillLevel.Expert,
+        icon: "/skills/api.svg",
+      },
+    ],
+  },
+  {
+    title: "Web Development",
     items: [
       {
         title: "Next.js",
         level: SkillLevel.Expert,
-        icon: "/skills/nextjs.png",
+        icon: "/skills/nextjs.svg",
       },
       {
         title: "React.js",
@@ -35,50 +65,20 @@ const skills: ISkillListItem[] = [
         icon: "/skills/react.svg",
       },
       {
-        title: "HTML",
+        title: "HTML & CSS",
         level: SkillLevel.Expert,
         icon: "/skills/html.svg",
       },
       {
-        title: "CSS",
+        title: "Tailwind CSS",
         level: SkillLevel.Intermediate,
-        icon: "/skills/css.svg",
+        icon: "/skills/tailwindcss.svg",
       },
       {
         title: "SASS",
         level: SkillLevel.Intermediate,
         icon: "/skills/sass.svg",
       },
-      {
-        title: "Redux Toolkit",
-        level: SkillLevel.Expert,
-        icon: "/skills/redux.svg",
-      },
-    ],
-  },
-  {
-    title: "Backend Development",
-    items: [
-      {
-        title: "Node.js",
-        level: SkillLevel.Expert,
-        icon: "/skills/nodejs.svg",
-      },
-      {
-        title: "Express.js",
-        level: SkillLevel.Expert,
-        icon: "/skills/express.svg",
-      },
-      {
-        title: "Socket.io",
-        level: SkillLevel.Intermediate,
-        icon: "/skills/socket-io.png",
-      },
-      // {
-      //   title: "Nest.js",
-      //   level: SkillLevel.Beginner,
-      //   icon: "/skills/nestjs.svg",
-      // },
     ],
   },
   {
@@ -92,13 +92,18 @@ const skills: ISkillListItem[] = [
       {
         title: "GetX",
         level: SkillLevel.Expert,
-        icon: "/skills/getx.png",
+        icon: "/skills/getx.svg",
       },
     ],
   },
   {
     title: "Database Management",
     items: [
+      {
+        title: "MySQL",
+        level: SkillLevel.Beginner,
+        icon: "/skills/mysql.svg",
+      },
       {
         title: "MongoDB",
         level: SkillLevel.Intermediate,
@@ -109,26 +114,11 @@ const skills: ISkillListItem[] = [
         level: SkillLevel.Intermediate,
         icon: "/skills/postgresql.svg",
       },
-      {
-        title: "MySQL",
-        level: SkillLevel.Beginner,
-        icon: "/skills/mysql.svg",
-      },
     ],
   },
   {
-    title: "DevOps/VCS",
+    title: "DevOps & Version Control",
     items: [
-      {
-        title: "Docker",
-        level: SkillLevel.Beginner,
-        icon: "/skills/docker.png",
-      },
-      {
-        title: "AWS",
-        level: SkillLevel.Intermediate,
-        icon: "/skills/aws.svg",
-      },
       {
         title: "Git",
         level: SkillLevel.Expert,
@@ -139,20 +129,35 @@ const skills: ISkillListItem[] = [
         level: SkillLevel.Expert,
         icon: "/skills/github.svg",
       },
+      {
+        title: "Docker",
+        level: SkillLevel.Beginner,
+        icon: "/skills/docker.svg",
+      },
+      {
+        title: "AWS",
+        level: SkillLevel.Intermediate,
+        icon: "/skills/aws.svg",
+      },
     ],
   },
   {
-    title: "Miscellaneous",
+    title: "Customer Support & Operations",
     items: [
       {
-        title: "Firebase",
-        level: SkillLevel.Intermediate,
-        icon: "/skills/firebase.svg",
+        title: "Trello Integration",
+        level: SkillLevel.Expert,
+        icon: "/skills/trello.svg",
       },
       {
-        title: "Ubuntu",
-        level: SkillLevel.Intermediate,
-        icon: "/skills/ubuntu.png",
+        title: "IRIS (Incident Response Investigation System)",
+        level: SkillLevel.Expert,
+        icon: "/skills/iris.svg",
+      },
+      {
+        title: "Customer Support Systems",
+        level: SkillLevel.Expert,
+        icon: "/skills/helpdesk.svg",
       },
     ],
   },
