@@ -25,9 +25,9 @@ const poppins = Poppins({
 });
 
 export const metadata: Metadata = {
-  title: "Nikhil Rajput",
+  title: "Darcayz",
   description:
-    "Nikhil Rajput is a proficient Software Engineer and Full Stack Developer from India, skilled in front-end and back-end development using modern tech stacks.",
+  "A versatile Full Stack Developer from Australia, specializing in Roblox game development, advanced systems integration, and innovative UI/UX design. Owner of 'Fast Food Roleplays' Roblox group, and creator of Hexly, a modern HR management tool.",
   robots: {
     index: true,
     follow: true,
@@ -41,41 +41,34 @@ export const metadata: Metadata = {
   },
   icons: [
     {
-      url: "/favicon-16x16.ico",
+      url: "https://ffrp.xyz/darlogo.png",
       rel: "icon",
       sizes: "16x16",
       type: "image/x-icon",
     },
     {
-      url: "/favicon-32x32.ico",
+      url: "https://ffrp.xyz/darlogo.png",
       rel: "icon",
       sizes: "32x32",
       type: "image/x-icon",
     },
     {
-      url: "/favicon-48x48.ico",
+      url: "https://ffrp.xyz/darlogo.png",
       rel: "icon",
       sizes: "48x48",
       type: "image/x-icon",
     },
     {
-      url: "/favicon-64x64.ico",
+      url: "https://ffrp.xyz/darlogo.png",
       rel: "icon",
       sizes: "64x64",
       type: "image/x-icon",
     },
   ],
   keywords: [
-    "nikhil rajput",
-    "nikhil",
-    "nixrajput",
-    "nikhil-rajput",
-    "rajput nikhil",
-    "founder of nixlab",
-    "nixlab founder",
-    "full stack developer",
-    "indian developer",
-    "nixrajput github",
+    "darcayz", "full stack developer", "roblox developer", "hexly", "fast food roleplays", 
+    "web developer", "software engineer", "nextjs", "javascript", "ui/ux", "react", "moodle integration",
+    "server-side scripting", "php", "discord bot development"
   ],
 };
 
