@@ -5,9 +5,10 @@ const services: IServiceItem[] = [
     id: 1,
     title: "Roblox Game Development",
     icons: [
-      "/skills/roblox-studio.svg",
-      "/skills/lua.svg",
-      "/skills/figma.svg",
+      "https://cdn.worldvectorlogo.com/logos/roblox-studio-1.svg",
+   "https://cdn.worldvectorlogo.com/logos/google-cloud-1.svg",
+      "https://cdn.worldvectorlogo.com/logos/mysql-logo-pure.svg",
+      "https://cdn.worldvectorlogo.com/logos/azure-2.svg",
     ],
     shortDescription: "I develop custom Roblox games with unique features.",
     description:
@@ -17,9 +18,10 @@ const services: IServiceItem[] = [
     id: 2,
     title: "Discord Bot Development",
     icons: [
-      "/skills/discord.js.svg",
-      "/skills/nodejs.svg",
-      "/skills/python.svg",
+      "https://cdn.worldvectorlogo.com/logos/discord-6.svg",
+"https://cdn.worldvectorlogo.com/logos/google-cloud-1.svg",
+      "https://cdn.worldvectorlogo.com/logos/mysql-logo-pure.svg",
+      "https://cdn.worldvectorlogo.com/logos/azure-2.svg",
     ],
     shortDescription: "I build powerful Discord bots to enhance server functionality.",
     description:
@@ -29,9 +31,10 @@ const services: IServiceItem[] = [
     id: 3,
     title: "Roblox Group Management & Automation",
     icons: [
-      "/skills/roblox.svg",
-      "/skills/trello.svg",
-      "/skills/adonis.svg",
+      "https://cdn.worldvectorlogo.com/logos/roblox-studio-1.svg",
+    "https://cdn.worldvectorlogo.com/logos/google-cloud-1.svg",
+      "https://cdn.worldvectorlogo.com/logos/mysql-logo-pure.svg",
+      "https://cdn.worldvectorlogo.com/logos/azure-2.svg",
     ],
     shortDescription: "I automate and streamline Roblox group management tasks.",
     description:
@@ -41,9 +44,10 @@ const services: IServiceItem[] = [
     id: 4,
     title: "Advanced Management Systems (AMS)",
     icons: [
-      "/skills/automation.svg",
-      "/skills/roblox.svg",
-      "/skills/trello.svg",
+         "https://cdn.worldvectorlogo.com/logos/roblox-studio-1.svg",
+"https://cdn.worldvectorlogo.com/logos/google-cloud-1.svg",
+      "https://cdn.worldvectorlogo.com/logos/mysql-logo-pure.svg",
+      "https://cdn.worldvectorlogo.com/logos/azure-2.svg",
     ],
     shortDescription: "I create and manage advanced systems for efficient operations.",
     description:
@@ -53,9 +57,10 @@ const services: IServiceItem[] = [
     id: 5,
     title: "Custom Roblox Scripts & Admin Tools",
     icons: [
-      "/skills/roblox-studio.svg",
-      "/skills/lua.svg",
-      "/skills/adonis.svg",
+          "https://cdn.worldvectorlogo.com/logos/roblox-studio-1.svg",
+"https://cdn.worldvectorlogo.com/logos/google-cloud-1.svg",
+      "https://cdn.worldvectorlogo.com/logos/mysql-logo-pure.svg",
+      "https://cdn.worldvectorlogo.com/logos/azure-2.svg",
     ],
     shortDescription: "I create custom scripts and admin tools for Roblox groups.",
     description:
@@ -65,9 +70,10 @@ const services: IServiceItem[] = [
     id: 6,
     title: "Customer Support Systems (Discord & Roblox)",
     icons: [
-      "/skills/discord.svg",
-      "/skills/roblox.svg",
-      "/skills/helpdesk.svg",
+           "https://cdn.worldvectorlogo.com/logos/roblox-studio-1.svg",
+"https://cdn.worldvectorlogo.com/logos/google-cloud-1.svg",
+      "https://cdn.worldvectorlogo.com/logos/mysql-logo-pure.svg",
+      "https://cdn.worldvectorlogo.com/logos/azure-2.svg",
     ],
     shortDescription: "I set up and manage support systems for Discord and Roblox.",
     description:
@@ -77,9 +83,11 @@ const services: IServiceItem[] = [
     id: 7,
     title: "Trello Integration & Automation",
     icons: [
-      "/skills/trello.svg",
-      "/skills/discord.svg",
-      "/skills/api.svg",
+      "https://cdn.worldvectorlogo.com/logos/trello.svg",
+                 "https://cdn.worldvectorlogo.com/logos/roblox-studio-1.svg",
+   "https://cdn.worldvectorlogo.com/logos/google-cloud-1.svg",
+      "https://cdn.worldvectorlogo.com/logos/mysql-logo-pure.svg",
+      "https://cdn.worldvectorlogo.com/logos/azure-2.svg",
     ],
     shortDescription: "I integrate Trello with Roblox/Discord to automate workflows.",
     description:
@@ -89,9 +97,10 @@ const services: IServiceItem[] = [
     id: 8,
     title: "Advanced Roleplay Systems (Roblox)",
     icons: [
-      "/skills/roblox-studio.svg",
-      "/skills/lua.svg",
-      "/skills/chat.svg",
+      "https://cdn.worldvectorlogo.com/logos/roblox-studio-1.svg",
+   "https://cdn.worldvectorlogo.com/logos/google-cloud-1.svg",
+      "https://cdn.worldvectorlogo.com/logos/mysql-logo-pure.svg",
+      "https://cdn.worldvectorlogo.com/logos/azure-2.svg",
     ],
     shortDescription: "I create engaging roleplay systems for Roblox games.",
     description:
@@ -101,9 +110,10 @@ const services: IServiceItem[] = [
     id: 9,
     title: "Security Systems for Roblox Groups",
     icons: [
-      "/skills/roblox.svg",
-      "/skills/security.svg",
-      "/skills/automation.svg",
+      "https://cdn.worldvectorlogo.com/logos/roblox-studio-1.svg",
+   "https://cdn.worldvectorlogo.com/logos/google-cloud-1.svg",
+      "https://cdn.worldvectorlogo.com/logos/mysql-logo-pure.svg",
+      "https://cdn.worldvectorlogo.com/logos/azure-2.svg",
     ],
     shortDescription: "I secure your Roblox group with advanced systems.",
     description:
@@ -113,9 +123,10 @@ const services: IServiceItem[] = [
     id: 10,
     title: "Training and Coaching for Roblox Group Management",
     icons: [
-      "/skills/roblox.svg",
-      "/skills/education.svg",
-      "/skills/leadership.svg",
+        "https://cdn.worldvectorlogo.com/logos/roblox-studio-1.svg",
+   "https://cdn.worldvectorlogo.com/logos/google-cloud-1.svg",
+      "https://cdn.worldvectorlogo.com/logos/mysql-logo-pure.svg",
+      "https://cdn.worldvectorlogo.com/logos/azure-2.svg",
     ],
     shortDescription: "I provide training for effective group management.",
     description:
