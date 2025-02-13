@@ -4,7 +4,7 @@ import { RepoType, type IProjectItem } from "@/types";
 import { Balancer } from "react-wrap-balancer";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faGithub } from "@fortawesome/free-brands-svg-icons";
-import { faEye } from "@fortawesome/free-solid-svg-icons";
+import { faGlobe } from "@fortawesome/free-solid-svg-icons";
 import Image from "next/image";
 import Link from "next/link";
 import Column from "@/components/core/Column";
@@ -15,19 +15,7 @@ const ProjectItem = ({ project }: { project: IProjectItem }) => {
   return (
     <CardBox classNames="min-w-[calc(100%-2rem)] sm:min-w-[25rem] md:min-w-[28rem] aspect-[3/5] max-h-[30rem] p-4 gap-8 items-center justify-between rounded-[var(--borderRadius)] border border-[rgba(255,255,255,0.10)] dark:bg-[var(--primaryColor5)] bg-[var(--primaryColor5)] shadow-[2px_4px_16px_0px_rgba(100,100,100,0.06)_inset] group slide_in">
       <Column classNames="w-full items-center justify-start">
-        <Row classNames="w-[2.5rem] md:w-[3rem] aspect-square items-center justify-center">
-          <Image
-            src={project.icon}
-            alt={`project-${project.title}`}
-            width={100}
-            height={100}
-            sizes="100%"
-            loading="lazy"
-            placeholder="blur"
-            blurDataURL={project.icon}
-            className="w-full h-full object-cover aspect-square"
-          />
-        </Row>
+     
 
         <p className="text-lg/6 font-semibold mt-4">{project.title}</p>
 
@@ -52,7 +40,7 @@ const ProjectItem = ({ project }: { project: IProjectItem }) => {
               className="app__outlined_btn !rounded-full !p-2 lg:!p-3 !aspect-square !border-[var(--textColor)]"
             >
               <FontAwesomeIcon
-                icon={faGithub}
+                icon={faGlobe}
                 className="text-base/6 text-[var(--textColor)]"
               />
             </Link>
@@ -61,12 +49,12 @@ const ProjectItem = ({ project }: { project: IProjectItem }) => {
           {project.url ? (
             <Link
               href={project.url}
-              aria-label={`${project.title} Project URL`}
+              aria-label={`${project.title}`}
               target="_blank"
               className="app__outlined_btn !rounded-full !p-2 lg:!p-3 !aspect-square !border-[var(--textColor)]"
             >
               <FontAwesomeIcon
-                icon={faEye}
+                icon={faGlobe}
                 className="text-base/6 text-[var(--textColor)]"
               />
             </Link>
