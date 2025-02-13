@@ -12,51 +12,15 @@ import type { ISocialLinkItem } from "@/types";
 const socialLinks: ISocialLinkItem[] = [
   {
     name: Strings.github,
-    url: Strings.githubLink,
+    url: "https://github.com/AusAvia2",
     icon: faGithub,
-    text: Strings.githubUsername,
+    text: "Darcayz",
   },
   {
-    name: Strings.linkedIn,
-    url: Strings.linkedInLink,
-    icon: faLinkedin,
-    text: Strings.linkedInUsername,
-  },
-  {
-    name: Strings.telegram,
-    url: Strings.telegramLink,
-    icon: faTelegram,
-    text: Strings.telegramUsername,
-  },
-  {
-    name: Strings.instagram,
-    url: Strings.instagramLink,
-    icon: faInstagram,
-    text: Strings.instagramUsername,
-  },
-  {
-    name: Strings.twitter,
-    url: Strings.twitterLink,
-    icon: faXTwitter,
-    text: Strings.twitterUsername,
-  },
-  {
-    name: Strings.email,
-    url: Strings.primaryEmailLink,
-    icon: faEnvelope,
-    text: Strings.primaryEmail,
-  },
-  {
-    name: Strings.buyMeACoffee,
-    url: Strings.buyMeACoffeeLink,
-    icon: "/images/buy-me-a-coffee.png",
-    text: Strings.buyMeACoffeeUsername,
-  },
-  {
-    name: Strings.koFi,
-    url: Strings.koFiLink,
-    icon: "/images/ko-fi.png",
-    text: Strings.buyMeACoffeeUsername,
+    name: Strings.github,
+    url: "https://discord.gg/foodroleplay",
+    icon: faDiscord,
+    text: "Darcayz",
   },
 ];
 
