@@ -9,6 +9,8 @@ const services: IServiceItem[] = [
    "https://cdn.worldvectorlogo.com/logos/google-cloud-1.svg",
       "https://cdn.worldvectorlogo.com/logos/mysql-logo-pure.svg",
       "https://cdn.worldvectorlogo.com/logos/azure-2.svg",
+            "https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg",
+
     ],
     shortDescription: "I develop custom Roblox games with unique features.",
     description:
@@ -22,6 +24,8 @@ const services: IServiceItem[] = [
 "https://cdn.worldvectorlogo.com/logos/google-cloud-1.svg",
       "https://cdn.worldvectorlogo.com/logos/mysql-logo-pure.svg",
       "https://cdn.worldvectorlogo.com/logos/azure-2.svg",
+            "https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg",
+
     ],
     shortDescription: "I build powerful Discord bots to enhance server functionality.",
     description:
@@ -35,6 +39,8 @@ const services: IServiceItem[] = [
     "https://cdn.worldvectorlogo.com/logos/google-cloud-1.svg",
       "https://cdn.worldvectorlogo.com/logos/mysql-logo-pure.svg",
       "https://cdn.worldvectorlogo.com/logos/azure-2.svg",
+            "https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg",
+
     ],
     shortDescription: "I automate and streamline Roblox group management tasks.",
     description:
@@ -48,6 +54,8 @@ const services: IServiceItem[] = [
 "https://cdn.worldvectorlogo.com/logos/google-cloud-1.svg",
       "https://cdn.worldvectorlogo.com/logos/mysql-logo-pure.svg",
       "https://cdn.worldvectorlogo.com/logos/azure-2.svg",
+            "https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg",
+
     ],
     shortDescription: "I create and manage advanced systems for efficient operations.",
     description:
@@ -61,6 +69,8 @@ const services: IServiceItem[] = [
 "https://cdn.worldvectorlogo.com/logos/google-cloud-1.svg",
       "https://cdn.worldvectorlogo.com/logos/mysql-logo-pure.svg",
       "https://cdn.worldvectorlogo.com/logos/azure-2.svg",
+            "https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg",
+
     ],
     shortDescription: "I create custom scripts and admin tools for Roblox groups.",
     description:
@@ -74,6 +84,8 @@ const services: IServiceItem[] = [
 "https://cdn.worldvectorlogo.com/logos/google-cloud-1.svg",
       "https://cdn.worldvectorlogo.com/logos/mysql-logo-pure.svg",
       "https://cdn.worldvectorlogo.com/logos/azure-2.svg",
+            "https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg",
+
     ],
     shortDescription: "I set up and manage support systems for Discord and Roblox.",
     description:
@@ -101,6 +113,8 @@ const services: IServiceItem[] = [
    "https://cdn.worldvectorlogo.com/logos/google-cloud-1.svg",
       "https://cdn.worldvectorlogo.com/logos/mysql-logo-pure.svg",
       "https://cdn.worldvectorlogo.com/logos/azure-2.svg",
+            "https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg",
+
     ],
     shortDescription: "I create engaging roleplay systems for Roblox games.",
     description:
@@ -114,6 +128,7 @@ const services: IServiceItem[] = [
    "https://cdn.worldvectorlogo.com/logos/google-cloud-1.svg",
       "https://cdn.worldvectorlogo.com/logos/mysql-logo-pure.svg",
       "https://cdn.worldvectorlogo.com/logos/azure-2.svg",
+      "https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg",
     ],
     shortDescription: "I secure your Roblox group with advanced systems.",
     description:
@@ -127,6 +142,8 @@ const services: IServiceItem[] = [
    "https://cdn.worldvectorlogo.com/logos/google-cloud-1.svg",
       "https://cdn.worldvectorlogo.com/logos/mysql-logo-pure.svg",
       "https://cdn.worldvectorlogo.com/logos/azure-2.svg",
+            "https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg",
+
     ],
     shortDescription: "I provide training for effective group management.",
     description:
