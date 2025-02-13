@@ -7,27 +7,27 @@ const skills: ISkillListItem[] = [
       {
         title: "Roblox Studio",
         level: SkillLevel.Expert,
-        icon: "/skills/roblox-studio.svg",
+        icon: "https://flaticons.net/icon.php?slug_category=miscellaneous&slug_icon=hammer",
       },
       {
         title: "Lua",
         level: SkillLevel.Expert,
-        icon: "/skills/lua.svg",
+        icon: "https://flaticons.net/icon.php?slug_category=science-technology&slug_icon=source-code",
       },
       {
         title: "Adonis Admin",
         level: SkillLevel.Expert,
-        icon: "/skills/adonis.svg",
+        icon: "https://flaticons.net/icon.php?slug_category=network-security&slug_icon=armor",
       },
       {
         title: "Trello Integration",
         level: SkillLevel.Expert,
-        icon: "/skills/trello.svg",
+        icon: "https://flaticons.net/icon.php?slug_category=education&slug_icon=black-board",
       },
       {
         title: "Roblox Group Management",
         level: SkillLevel.Expert,
-        icon: "/skills/roblox.svg",
+        icon: "https://flaticons.net/icon.php?slug_category=people&slug_icon=user-group",
       },
     ],
   },
@@ -37,7 +37,7 @@ const skills: ISkillListItem[] = [
       {
         title: "Discord.js",
         level: SkillLevel.Expert,
-        icon: "/skills/discord.js.svg",
+        icon: "https://flaticons.net/icon.php?slug_category=science-technology&slug_icon=robot-01",
       },
       {
         title: "Node.js",
@@ -47,7 +47,7 @@ const skills: ISkillListItem[] = [
       {
         title: "API Integration",
         level: SkillLevel.Expert,
-        icon: "/skills/api.svg",
+        icon: "https://flaticons.net/icon.php?slug_category=application&slug_icon=virtual-apps",
       },
     ],
   },
@@ -57,7 +57,7 @@ const skills: ISkillListItem[] = [
       {
         title: "Next.js",
         level: SkillLevel.Expert,
-        icon: "/skills/nextjs.svg",
+        icon: "https://flaticons.net/icon.php?slug_category=application&slug_icon=cloud",
       },
       {
         title: "React.js",
