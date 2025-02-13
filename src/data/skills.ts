@@ -7,27 +7,27 @@ const skills: ISkillListItem[] = [
       {
         title: "Roblox Studio",
         level: SkillLevel.Expert,
-        icon: "https://flaticons.net/icon.php?slug_category=miscellaneous&slug_icon=hammer",
+        icon: "https://cdn.worldvectorlogo.com/logos/roblox-studio-1.svg",
       },
       {
         title: "Lua",
         level: SkillLevel.Expert,
-        icon: "https://flaticons.net/icon.php?slug_category=science-technology&slug_icon=source-code",
+        icon: "https://cdn.worldvectorlogo.com/logos/lua-5.svg",
       },
       {
         title: "Adonis Admin",
         level: SkillLevel.Expert,
-        icon: "https://flaticons.net/icon.php?slug_category=network-security&slug_icon=armor",
+        icon: "https://cdn.worldvectorlogo.com/logos/shield.svg",
       },
       {
         title: "Trello Integration",
         level: SkillLevel.Expert,
-        icon: "https://flaticons.net/icon.php?slug_category=education&slug_icon=black-board",
+        icon: "https://cdn.worldvectorlogo.com/logos/trello.svg",
       },
       {
         title: "Roblox Group Management",
         level: SkillLevel.Expert,
-        icon: "https://flaticons.net/icon.php?slug_category=people&slug_icon=user-group",
+        icon: "https://cdn.worldvectorlogo.com/logos/roblox-studio-1.svg",
       },
     ],
   },
@@ -37,7 +37,7 @@ const skills: ISkillListItem[] = [
       {
         title: "Discord.js",
         level: SkillLevel.Expert,
-        icon: "https://flaticons.net/icon.php?slug_category=science-technology&slug_icon=robot-01",
+        icon: "https://cdn.worldvectorlogo.com/logos/discord-6.svg",
       },
       {
         title: "Node.js",
@@ -47,7 +47,7 @@ const skills: ISkillListItem[] = [
       {
         title: "API Integration",
         level: SkillLevel.Expert,
-        icon: "https://flaticons.net/icon.php?slug_category=application&slug_icon=virtual-apps",
+        icon: "https://cdn.worldvectorlogo.com/logos/nodal.svg",
       },
     ],
   },
@@ -57,7 +57,7 @@ const skills: ISkillListItem[] = [
       {
         title: "Next.js",
         level: SkillLevel.Expert,
-        icon: "https://flaticons.net/icon.php?slug_category=application&slug_icon=cloud",
+        icon: "https://cdn.worldvectorlogo.com/logos/next-js.svg",
       },
       {
         title: "React.js",
@@ -72,30 +72,12 @@ const skills: ISkillListItem[] = [
       {
         title: "Tailwind CSS",
         level: SkillLevel.Intermediate,
-        icon: "/skills/tailwindcss.svg",
+        icon: "https://cdn.worldvectorlogo.com/logos/tailwind-css-2.svg",
       },
-      {
-        title: "SASS",
-        level: SkillLevel.Intermediate,
-        icon: "/skills/sass.svg",
-      },
+  
     ],
   },
-  {
-    title: "Mobile App Development",
-    items: [
-      {
-        title: "Flutter",
-        level: SkillLevel.Expert,
-        icon: "/skills/flutter.svg",
-      },
-      {
-        title: "GetX",
-        level: SkillLevel.Expert,
-        icon: "/skills/getx.svg",
-      },
-    ],
-  },
+ 
   {
     title: "Database Management",
     items: [
@@ -147,17 +129,17 @@ const skills: ISkillListItem[] = [
       {
         title: "Trello Integration",
         level: SkillLevel.Expert,
-        icon: "/skills/trello.svg",
+        icon: "https://cdn.worldvectorlogo.com/logos/trello.svg",
       },
       {
-        title: "IRIS (Incident Response Investigation System)",
+        title: "IRIS",
         level: SkillLevel.Expert,
-        icon: "/skills/iris.svg",
+        icon: "https://cdn.worldvectorlogo.com/logos/iris.svg",
       },
       {
-        title: "Customer Support Systems",
+        title: "OneSignal",
         level: SkillLevel.Expert,
-        icon: "/skills/helpdesk.svg",
+        icon: "https://cdn.worldvectorlogo.com/logos/onesignal.svg",
       },
     ],
   },
