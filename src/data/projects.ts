@@ -6,7 +6,7 @@ const projects: IProjectItem[] = [
     title: "FoodExpress",
     description:
       "A powerful Discord bot to manage FoodExpress operations, including order tracking, staff coordination, and customer support integration.",
-    icon: "/skills/discord.svg",
+    icon: "https:/ffrp.xyz/logofe.png",
     repoType: RepoType.Public,
     projectType: ProjectType.Personal,
     githubUrl: "https://delivery.ffrp.xyz",
@@ -17,7 +17,7 @@ const projects: IProjectItem[] = [
     title: "Fast Food Roleplays",
     description:
       "A Roblox group and game designed for a simulated fast food experience, with various roles, tasks, and staff management.",
-    icon: "/skills/roblox.svg",
+    icon: "https:/ffrp.xyz/logo.png",
     repoType: RepoType.Public,
     projectType: ProjectType.Personal,
     githubUrl: "https://ffrp.xyz",
@@ -28,7 +28,7 @@ const projects: IProjectItem[] = [
     title: "Staff Hub",
     description:
       "An internal portal for managing staff activities, shift scheduling, role assignments, and more, tailored for fast food roleplay environments.",
-    icon: "/skills/web.svg",
+    icon: "https:/ffrp.xyz/logo.png",
     repoType: RepoType.Public,
     projectType: ProjectType.Personal,
     githubUrl: "https://ffrp.xyz",
@@ -39,7 +39,7 @@ const projects: IProjectItem[] = [
     title: "Bloxclick",
     description:
       "A ROBLOX alternative platform, featuring a game client, groups and avatar support.",
-    icon: "/skills/roblox.svg",
+    icon: "https:/ffrp.xyz/bloxclick.png",
     repoType: RepoType.Public,
     projectType: ProjectType.Personal,
     githubUrl: "https://github.com/hexly/bloxclick-schedule-system",
@@ -50,7 +50,7 @@ const projects: IProjectItem[] = [
     title: "Hexly",
     description:
     "A powerful HR solution for all ROBLOX communities, backed by 10 years of experience.",
-    icon: "/skills/hr.svg",
+    icon: "https:/ffrp.xyz/hexly.png",
     repoType: RepoType.Public,
     projectType: ProjectType.Personal,
     githubUrl: "https://github.com/hexly/hexly-hr-system",
