@@ -68,8 +68,34 @@ export const metadata: Metadata = {
   keywords: [
     "darcayz", "full stack developer", "roblox developer", "hexly", "fast food roleplays", 
     "web developer", "software engineer", "nextjs", "javascript", "ui/ux", "react", "moodle integration",
-    "server-side scripting", "php", "discord bot development"
+    "server-side scripting", "php", "discord bot development", "darcayzofficial"
   ],
+   openGraph: {
+    title: "Darcayz – Official Site",
+    description: "The only official YouTube: @darcayzofficial",
+    url: "https://www.darcayz.com",
+    siteName: "Darcayz Official",
+    images: [
+      {
+        url: "https://ffrp.xyz/darcayz.png",
+        width: 1200,
+        height: 630,
+        alt: "Darcayz Official Preview",
+      },
+    ],
+    type: "website",
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: "Darcayz Official",
+    description: "The official website of Darcayz, creator of @darcayzofficial on YouTube.",
+    images: ["https://ffrp.xyz/darcayz.png"],
+    creator: "@darcayzofficial",
+  },
+  other: {
+    "youtube:channel": "https://www.youtube.com/@darcayzofficial",
+  },
+
 };
 
 const GoogleAnalytics = dynamic(
