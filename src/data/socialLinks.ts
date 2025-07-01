@@ -26,6 +26,7 @@ const socialLinks: ISocialLinkItem[] = [
     {
     name: Strings.github,
     url: "https://www.youtube.com/@darcayzofficial",
+    icon: faDiscord,
     text: "Darcayz",
   },
 ];
