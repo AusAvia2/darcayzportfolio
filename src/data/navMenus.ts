@@ -46,5 +46,14 @@ export const navMenus: INavItem[] = [
     link: "/#contact",
     icon: faEnvelope,
   },
- 
+   {
+    name: "YouTube Channel",
+    link: "https://www.youtube.com/@darcayzofficial",
+    icon: faVideo,
+  },
+    {
+    name: "Privacy",
+    link: "/privacy",
+    icon: faEnvelope,
+  },
 ];
