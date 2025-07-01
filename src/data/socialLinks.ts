@@ -4,7 +4,6 @@ import {
   faTelegram,
   faInstagram,
   faDiscord,
-  faYoutube,
   faXTwitter,
 } from "@fortawesome/free-brands-svg-icons";
 import { faEnvelope } from "@fortawesome/free-solid-svg-icons";
@@ -27,7 +26,6 @@ const socialLinks: ISocialLinkItem[] = [
     {
     name: Strings.github,
     url: "https://www.youtube.com/@darcayzofficial",
-    icon: faYoutube,
     text: "Darcayz",
   },
 ];

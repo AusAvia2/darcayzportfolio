@@ -3,7 +3,6 @@ import {
   faHome,
   faUser,
   faBriefcase,
-  faYoutube,
   faTimeline,
   faAward,
   faLaptopCode,
@@ -50,7 +49,6 @@ export const navMenus: INavItem[] = [
    {
     name: "YouTube Channel",
     link: "https://www.youtube.com/@darcayzofficial",
-    icon: faYoutube,
   },
     {
     name: "Privacy",
