@@ -48,7 +48,7 @@ export const navMenus: INavItem[] = [
   },
    {
     name: "YouTube Channel",
-    link: "https://www.youtube.com/@darcayzofficial",
+    link: "https://www.youtube.com/@daqinix",
         icon: faEnvelope,
 
   },

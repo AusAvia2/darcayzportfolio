@@ -25,7 +25,7 @@ const poppins = Poppins({
 });
 
 export const metadata: Metadata = {
-  title: "Darcayz",
+  title: "Daqinix",
   description:
   "A versatile Full Stack Developer from Australia, specializing in Roblox game development, advanced systems integration, and innovative UI/UX design. Owner of 'Fast Food Roleplays' Roblox group, and creator of Hexly, a modern HR management tool.",
   robots: {
@@ -66,34 +66,34 @@ export const metadata: Metadata = {
     },
   ],
   keywords: [
-    "darcayz", "full stack developer", "roblox developer", "hexly", "fast food roleplays", 
+    "daqinix", "full stack developer", "roblox developer", "hexly", "fast food roleplays", 
     "web developer", "software engineer", "nextjs", "javascript", "ui/ux", "react", "moodle integration",
-    "server-side scripting", "php", "discord bot development", "darcayzofficial"
+    "server-side scripting", "php", "discord bot development", "daqinix"
   ],
    openGraph: {
-    title: "Darcayz – Official Site",
-    description: "The only official YouTube: @darcayzofficial",
-    url: "https://www.darcayz.com",
-    siteName: "Darcayz Official",
+    title: "Daqinix – Official Site",
+    description: "The only official YouTube: @daqinix",
+    url: "https://www.daqinix.com",
+    siteName: "Daqinix Official",
     images: [
       {
-        url: "https://ffrp.xyz/darcayz.png",
+        url: "https://ffrp.xyz/daqinix.png",
         width: 1200,
         height: 630,
-        alt: "Darcayz Official Preview",
+        alt: "Daqinix Official Preview",
       },
     ],
     type: "website",
   },
   twitter: {
     card: "summary_large_image",
-    title: "Darcayz Official",
-    description: "The official website of Darcayz, creator of @darcayzofficial on YouTube.",
-    images: ["https://ffrp.xyz/darcayz.png"],
-    creator: "@darcayzofficial",
+    title: "Daqinix Official",
+    description: "The official website of Daqinix, creator of @daqinix on YouTube.",
+    images: ["https://ffrp.xyz/daqinix.png"],
+    creator: "@daqinix",
   },
   other: {
-    "youtube:channel": "https://www.youtube.com/@darcayzofficial",
+    "youtube:channel": "https://www.youtube.com/@daqinix",
   },
 
 };

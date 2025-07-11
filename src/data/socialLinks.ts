@@ -15,19 +15,19 @@ const socialLinks: ISocialLinkItem[] = [
     name: Strings.github,
     url: "https://github.com/AusAvia2",
     icon: faGithub,
-    text: "Darcayz",
+    text: "Daqinix",
   },
   {
     name: Strings.github,
     url: "https://discord.gg/freshlane",
     icon: faDiscord,
-    text: "Darcayz",
+    text: "Daqinix",
   },
     {
     name: Strings.github,
-    url: "https://www.youtube.com/@darcayzofficial",
+    url: "https://www.youtube.com/@daqinix",
     icon: faDiscord,
-    text: "Darcayz",
+    text: "Daqinix",
   },
 ];
 

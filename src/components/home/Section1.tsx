@@ -21,7 +21,7 @@ const HomeSection1 = ({ id }: Readonly<{ id: string }>) => {
               Hi there, I am
             </p>
             <FlipWords
-              words={["Darcayz","a web designer","a artist","a YouTuber","a group owner","a Australian","a human","a developer","a programmer"]}
+              words={["Daqinix","a web designer","a artist","a YouTuber","a group owner","a Australian","a human","a developer","a programmer"]}
               className="text-2xl/normal sm:text-3xl/normal md:text-5xl/normal lg:text-6xl/normal xl:text-7xl/normal dark:text-[var(--primaryColor)] text-[var(--primaryColor)] font-bold text-center"
             />
           </div>
